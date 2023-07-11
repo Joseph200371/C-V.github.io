@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row-hearder{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+header{
+    border-top: 15px solid #17a2b8;
+    padding: 20px 35px;
+    display:flex;
+}
+
+.card{
+    margin: 15px 0px;
+    border-radius: 20px;
+}
+
+h5{
+    color: #17a2b8;
+}
+
+h4{
+    color: darkgreen;
+}
+
+h3{
+    font-size: 15px;
+}
+h2{
+    font-size: 20px;
+}
+footer{
+    height: 80px;
+    padding-top: 20px;
+}
+
